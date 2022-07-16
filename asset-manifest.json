@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/caspel-test/static/css/main.b6b96adf.css",
-    "main.js": "/caspel-test/static/js/main.012ab678.js",
+    "main.js": "/caspel-test/static/js/main.32d73b39.js",
     "index.html": "/caspel-test/index.html",
     "main.b6b96adf.css.map": "/caspel-test/static/css/main.b6b96adf.css.map",
-    "main.012ab678.js.map": "/caspel-test/static/js/main.012ab678.js.map"
+    "main.32d73b39.js.map": "/caspel-test/static/js/main.32d73b39.js.map"
   },
   "entrypoints": [
     "static/css/main.b6b96adf.css",
-    "static/js/main.012ab678.js"
+    "static/js/main.32d73b39.js"
   ]
 }
