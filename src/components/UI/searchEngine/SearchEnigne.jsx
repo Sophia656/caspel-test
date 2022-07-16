@@ -5,7 +5,7 @@ const SearchEnigne = ({searchQuery, setSearchQuery, setLimit}) => {
     const [paginationQuery, setPaginationQuery] = useState('')
 
     useEffect(() => {
-        if (paginationQuery.length > 0) {
+        if (paginationQuery > 0) {
             setLimit(paginationQuery)
         } else {
             setLimit(10)
