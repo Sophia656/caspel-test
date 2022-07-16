@@ -1,0 +1,17 @@
+.wrapper {
+    border-bottom: 5px solid gray;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 0 10vw 0 5vw;
+}
+.title {
+    border: 1px solid gray;
+    padding: 5px 5px;
+    cursor: pointer;
+    border-radius: 3px;
+    width: 15vw;
+}
+.title:hover {
+    background: gray;
+}

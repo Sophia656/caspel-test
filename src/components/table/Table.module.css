@@ -1,0 +1,15 @@
+.wrapper {
+    border: 10px solid gray;
+    background: lightgray;
+    height: fit-content;
+    min-height: 88vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.notfound {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}

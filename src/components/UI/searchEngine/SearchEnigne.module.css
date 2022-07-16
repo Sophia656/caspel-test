@@ -1,0 +1,12 @@
+.wrapper {
+    display: flex;
+    height: fit-content;
+    justify-content: space-around;
+}
+.input {
+    width: 35vw;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    height: 5vh;
+    padding-left: 2vw;
+}

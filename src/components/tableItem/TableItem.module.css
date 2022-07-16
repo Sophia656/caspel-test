@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5vh 5vw;
+    border: 2px solid black;
+}
+.item {
+    width: 20vw;
+    padding: 1vh 0;
+    text-align: start;
+}
